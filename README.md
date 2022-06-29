@@ -20,7 +20,7 @@ Tests of different data processing tools for Nortek ADCPs
 
 ## Test data
 
-Eli shared a Box drive containing some test data. I think this is from an instrument on a glider. I copied the following files to `data/external`:
+Eli shared a Box drive containing some test data. I think this is from an instrument on a glider. To run the code you need to copy the following files to `data/external`:
 
 ```
 Box/LeConte/testdata/Data_0000.ad2cp  # 1 GB 
