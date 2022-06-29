@@ -65,7 +65,7 @@ _Notes_
 
 ### xarray (python)
 
-Installed with the conda environment. Tested in the notebook `scripts/xarray_check_data.py`. To convert this script to a notebook, you may need to use:
+Installed with the conda environment. I will use it to read the Nortek generated netCDF files. This is done in the notebook `scripts/xarray_check_data.py`. To convert this script to a notebook, you may need to use:
 
 ```
 conda activate nortek-test
