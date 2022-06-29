@@ -18,6 +18,16 @@ Tests of different data processing tools for Nortek ADCPs
   UAV Toolbox
 ```
 
+## Installation
+
+Run the shell scrip:
+
+```bash
+./install_environment.sh
+```
+
+More info at the bottom. Look at the script itself for the manual step-by-step. 
+
 ## Test data
 
 Eli shared a Box drive containing some test data. I think this is from an instrument on a glider. To run the code you need to copy the following files to `data/external`:
