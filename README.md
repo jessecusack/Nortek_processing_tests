@@ -60,7 +60,8 @@ _Notes_
 
 * The parsed data does not contain pressure or temperature, but I find them in the netcdf? Not sure if these are in the ad2cp file or added somewhere else in the netcdf creation.
 * Requires additional MATLAB toolboxes for `quaternion`.
-* Rotation worked, I think... 
+* Rotation worked, I think...
+* Looks like a good MATLAB solution 
 
 ### xarray (python)
 
@@ -92,6 +93,7 @@ _Notes_
 
 * Loads the `ad2cp` data no problem.
 * Can do beam rotations, but was confused by the Glider model of ADCP.
+* Reads lots of additional data and metadata inc. temperature and pressure
 * Looks very promising for a python solution. 
 
 ## Installing and removing the environment
