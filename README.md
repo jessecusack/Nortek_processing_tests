@@ -8,14 +8,15 @@ Tests of different data processing tools for Nortek ADCPs
 * [Conda package manager](https://conda.io/en/latest/) (I recommend the lightweight version [miniconda](https://docs.conda.io/en/latest/miniconda.html))
 * MATLAB, including one of the toolboxes below:
 
-> 'quaternion' requires one of the following:
+```
+ 'quaternion' requires one of the following:
   Automated Driving Toolbox
   Navigation Toolbox
   Radar Toolbox
   Robotics System Toolbox
   Sensor Fusion and Tracking Toolbox
   UAV Toolbox
-
+```
 
 ## Test data
 
