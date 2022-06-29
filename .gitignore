@@ -1,0 +1,41 @@
+# macOS
+.DS_Store
+
+# Downloaded directories
+matlab_toolboxes/ocean-tools
+
+# Jupyter notebooks
+.ipynb_checkpoints
+*.ipynb
+
+# MATLAB
+*.m~
+
+# Binary data formats
+*.nc
+*.npz
+*.npy
+*.mat
+*.bin
+*.ad2cp
+*.ad2cp.index
+
+# Common figure formats
+*.jpg
+*.jpeg
+*.png
+*.tiff
+*.eps
+*.pdf
+*.svg
+*.gif
+
+# Common movie formats
+*.mp4
+*.mov
+
+# Python
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
