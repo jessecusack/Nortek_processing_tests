@@ -42,16 +42,16 @@ I tested the toolbox by first parsing the raw Nortek data and converting to a .m
 scripts/ocean_tools_convert.m
 ```
 
-Then I plotted some of the data:
-
-```
-scripts/ocean_tools_check_data.m
-```
-
 Then I tried rotating into earth coordinates:
 
 ```
 scripts/ocean_tools_rotate.m
+```
+
+Then I plotted some of the data:
+
+```
+scripts/ocean_tools_check_data.m
 ```
 
 This requires a toolbox that provies the `quaternion` function.
