@@ -5,4 +5,4 @@ conda activate nortek-test && python -m ipykernel install --user --name nortek-t
 cd matlab_toolboxes 
 ./get_toolboxes.sh
 cd ../scripts
-jupytext --to=ipynb xarray_check_data.py dolfyn_check_data.py
+jupytext --to=ipynb xarray_check_data.py dolfyn_check_data.py dolfyn_DMCS_tests.py

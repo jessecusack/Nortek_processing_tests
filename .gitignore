@@ -1,6 +1,9 @@
 # macOS
 .DS_Store
 
+# Data directories
+data/external
+
 # Downloaded directories
 matlab_toolboxes/ocean-tools
 
