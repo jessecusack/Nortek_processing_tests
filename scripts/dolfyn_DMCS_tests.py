@@ -39,3 +39,12 @@ mux = dolfyn.read("../data/external/Rutgers_ADCP_tests_2022/103461_DMCS_test_mux
 
 # %%
 b234 = dolfyn.read("../data/external/Rutgers_ADCP_tests_2022/103461_DMCS_test_b234/DMCS_test_b234.ad2cp")
+
+# %% [markdown]
+# # 500 Test echosounder
+
+# %%
+d5 = dolfyn.read("../data/external/Rutgers_ADCP_tests_2022/AD2CP_Profiler_ECHOTEST500/ECHOTEST500.ad2cp")
+
+# %% [markdown]
+# # 500 Test 
